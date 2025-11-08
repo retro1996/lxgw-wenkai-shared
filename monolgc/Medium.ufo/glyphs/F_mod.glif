@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fmod" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="A7F3"/>
+  <outline>
+    <contour>
+      <point x="185" y="319" type="qcurve"/>
+      <point x="173" y="319"/>
+      <point x="141" y="332"/>
+      <point x="141" y="349" type="qcurve"/>
+      <point x="142" y="394" type="line"/>
+      <point x="142" y="503" type="line"/>
+      <point x="140" y="504"/>
+      <point x="128" y="528"/>
+      <point x="128" y="536" type="qcurve"/>
+      <point x="128" y="557"/>
+      <point x="142" y="558" type="qcurve"/>
+      <point x="142" y="657" type="line"/>
+      <point x="140" y="682" type="line"/>
+      <point x="140" y="705"/>
+      <point x="163" y="705" type="qcurve"/>
+      <point x="173" y="705"/>
+      <point x="191" y="699" type="qcurve"/>
+      <point x="324" y="708" type="line"/>
+      <point x="367" y="712" type="line"/>
+      <point x="383" y="712"/>
+      <point x="399" y="683"/>
+      <point x="399" y="670" type="qcurve"/>
+      <point x="399" y="646"/>
+      <point x="377" y="646" type="qcurve"/>
+      <point x="325" y="646"/>
+      <point x="209" y="638" type="qcurve"/>
+      <point x="209" y="558" type="line"/>
+      <point x="296" y="564" type="line"/>
+      <point x="307" y="565"/>
+      <point x="333" y="568"/>
+      <point x="340" y="568" type="qcurve"/>
+      <point x="356" y="568"/>
+      <point x="372" y="539"/>
+      <point x="372" y="526" type="qcurve"/>
+      <point x="372" y="502"/>
+      <point x="349" y="502" type="qcurve"/>
+      <point x="298" y="502"/>
+      <point x="209" y="497" type="qcurve"/>
+      <point x="209" y="393"/>
+      <point x="210" y="340" type="qcurve"/>
+      <point x="210" y="319"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
